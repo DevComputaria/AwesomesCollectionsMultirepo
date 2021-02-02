@@ -7,3 +7,30 @@
 [submodule "Font-Awesome"]
 	path = Font-Awesome
 	url = https://github.com/FortAwesome/Font-Awesome
+[submodule "awesome-vue"]
+	path = awesome-vue
+	url = https://github.com/vuejs/awesome-vue
+[submodule "awesome-go"]
+	path = awesome-go
+	url = https://github.com/avelino/awesome-go
+[submodule "Awesome-Hacking"]
+	path = Awesome-Hacking
+	url = https://github.com/Hack-with-Github/Awesome-Hacking
+[submodule "awesome-courses"]
+	path = awesome-courses
+	url = https://github.com/prakhar1989/awesome-courses
+[submodule "awesome-machine-learning"]
+	path = awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning
+[submodule "awesome-ios"]
+	path = awesome-ios
+	url = https://github.com/vsouza/awesome-ios
+[submodule "awesome-pentest"]
+	path = awesome-pentest
+	url = https://github.com/enaqx/awesome-pentest
+[submodule "awesome-react"]
+	path = awesome-react
+	url = https://github.com/enaqx/awesome-react
+[submodule "awesome-nodejs"]
+	path = awesome-nodejs
+	url = https://github.com/sindresorhus/awesome-nodejs
